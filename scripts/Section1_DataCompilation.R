@@ -119,9 +119,9 @@ rm(trophic_data)
 
 #Section4-----------------Obtaining Distribution Data from GBIF-----------------
 
-options(gbif_user = "mjgenner")
-options(gbif_email = "m.genner@bristol.ac.uk")
-options(gbif_pwd = "Icur2fat2!!")
+options(gbif_user = "XXXXXX")
+options(gbif_email = "XXXXXX")
+options(gbif_pwd = "XXXXXX")
 
 SpeciesList <- fish_data$`RFT_FILTERED$Species`
 
@@ -141,7 +141,7 @@ occ_download(
 
 #There will now be an option to download the data
 
-#Reading in data, skipping the section5 above
+#Reading in data from  https://doi.org/10.15468/dl.c97hn3, skipping the section5 above
 
 GBIF_Data <- fread ("0005327-240425142415019.csv",sep="\t",fill = TRUE, quote="")
 
