@@ -21,6 +21,8 @@ Test.txt Description
 
 ***
 
-Test.R  Description
+Section1_DataCompilation.R  Code to generate the dataframes for analysis from source data
 
-Test.R  Description
+Section2_Analysis.R  Code to conduct statistical analyses
+
+Section3_PlottingMaps.R Code to plot figures
