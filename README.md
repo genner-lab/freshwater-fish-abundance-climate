@@ -17,6 +17,8 @@ RivFishTIME_TimeseriesTable.csv Time series data obtained from RivFishTime
 
 RFT_COMB.csv Intermediate dataframe combining RivFishTime datasets (uploaded version requires unzipping prior to analysis)
 
+GBIF data are available to download at  https://doi.org/10.15468/dl.c97hn3 
+
 ***
 
 **scripts**
