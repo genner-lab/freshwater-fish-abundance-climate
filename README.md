@@ -19,6 +19,10 @@ RFT_COMB.csv Intermediate dataframe combining RivFishTime datasets (uploaded ver
 
 GBIF data are available to download at  https://doi.org/10.15468/dl.c97hn3 
 
+Tclim_input.csv Dataframe with the downloaded and unpacked climate data to match RivFishTime locations and times
+
+
+
 ***
 
 **scripts**
