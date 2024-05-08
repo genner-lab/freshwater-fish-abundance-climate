@@ -11,7 +11,7 @@ Data and code for Brown et al. "Climate warming drives population trajectories o
 
 ***
 
-Test.txt Description
+RivFishTimeSurveyTable.txt Survey data obtained from RivFishTime
 
 Test.txt Description
 
