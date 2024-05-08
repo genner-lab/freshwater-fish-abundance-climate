@@ -11,6 +11,10 @@ Data and code for Brown et al. "Climate warming drives population trajectories o
 
 ***
 
+Stage 1
+
+***
+
 RivFishTimeSurveyTable.csv Survey data obtained from RivFishTime (uploaded version requires unzipping prior to analysis)
 
 RivFishTIME_TimeseriesTable.csv Time series data obtained from RivFishTime
@@ -21,7 +25,9 @@ GBIF data are available to download at  https://doi.org/10.15468/dl.c97hn3
 
 Tclim_input.csv Dataframe with the downloaded and unpacked climate data to match RivFishTime locations and times
 
+df_models_avg_03May2024.csv Compiled data required for analyses, end of Stage 1, Tavg
 
+df_models_max_03May2024.csv Compiled data required for analyses, end of Stage 1, Tmax
 
 ***
 
