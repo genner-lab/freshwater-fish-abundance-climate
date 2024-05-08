@@ -15,6 +15,8 @@ RivFishTimeSurveyTable.csv Survey data obtained from RivFishTime (uploaded versi
 
 RivFishTIME_TimeseriesTable.csv Time series data obtained from RivFishTime
 
+RFT_COMB.csv Intermediate dataframe combining RiveFishTime datasets (uploaded version requires unzipping prior to analysis)
+
 ***
 
 **scripts**
