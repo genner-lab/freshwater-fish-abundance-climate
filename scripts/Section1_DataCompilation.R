@@ -1,4 +1,4 @@
-setwd("/Users/bzmjg/Desktop/Live_Manuscripts/Tim - ClimateRiverFish/R code")
+#setwd
 
 #install unusual packages
 remotes::install_github("mikejohnson51/AOI")
