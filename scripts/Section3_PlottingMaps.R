@@ -1,4 +1,4 @@
-setwd("/Users/bzmjg/Desktop/Live_Manuscripts/Tim - ClimateRiverFish/R code")
+#setwd
 
 library(rfishbase)
 library(dplyr)
